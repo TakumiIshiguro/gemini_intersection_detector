@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Video Hallway Analyzer",
+  "description": "An interactive tool for identifying hallway shapes from video footage using computer vision concepts and Gemini AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
